@@ -7,3 +7,5 @@ Proactive, tailored wellbeing solutions for your school.
 - Automated check-ins based on key indicators
 
 [Book an online demo](https://calendly.com/komodo-new-schools)
+
+[Come work for us](https://www.komodowellbeing.com/careers)
